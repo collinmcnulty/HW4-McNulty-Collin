@@ -138,3 +138,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 .idea/vcs.xml
+/Q1/soc-LiveJournal1.bin
+/Q1/soc-LiveJournal1.idx
